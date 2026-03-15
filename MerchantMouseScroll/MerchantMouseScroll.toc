@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: MerchantMouseScroll
+## Notes: Scroll wheel to change vendor pages
+## Author: sekantti1
+## Version: 1.0
+
+MerchantMouseScroll.lua
