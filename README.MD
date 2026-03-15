@@ -1,0 +1,1 @@
+A simple wow 3.3.5a addon that enables changing merchants' pages with mousewheel.
