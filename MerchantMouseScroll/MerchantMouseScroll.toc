@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: MerchantMouseScroll
-## Notes: Scroll wheel to change vendor pages
+## Notes: Scroll wheel to change vendor and spellbook pages
 ## Author: sekantti1
-## Version: 1.0
+## Version: 2.0
 
 MerchantMouseScroll.lua
